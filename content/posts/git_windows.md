@@ -1,7 +1,7 @@
 ---
 title: "在 Windows 使用 Git 指令"
 date: 2021-02-24T10:07:47+06:00
-draft: false
+draft: 0
 
 # post thumb
 image: ""

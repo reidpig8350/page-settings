@@ -4,7 +4,7 @@ baseURL: "https://adityatelange.github.io/hugo-PaperMod/"
 title: Metrics Whisper
 copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
 paginate: 5
-theme: [PaperMod]
+theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -114,7 +114,7 @@ params:
   author: Theme PaperMod
   # author: ["Me", "You"] # multiple authors
 
-  defaultTheme: auto
+  defaultTheme: light
   # disableThemeToggle: true
   ShowShareButtons: true
   ShowReadingTime: true
