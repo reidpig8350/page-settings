@@ -5,13 +5,13 @@ title: "Metrics Whisper"
 params:
   homeInfoParams:
     Title: Hi there wave
-    Content: Can be Info, links, about...
+    Content: 專注於 Google Analytics 的導入與分析。結合 Python 進行數據處理與洞察挖掘，讓分析結果轉化為可執行的優化策略。
 
   socialIcons: # optional
-    - name: "Instagram"
-      url: "<link>"
     - name: "Linkedin"
       url: "<link2>"
+    - name: "Email"
+      url: "reidchu8350@gmail.com"
 # 首頁的樣式設定結束
 
 # 網站Navbar設定開始
@@ -21,8 +21,8 @@ menu:
       name: Articles
       url: /posts/
       weight: 10
-    - identifier: tags
-      name: tags
+    - identifier: Tags
+      name: Tags
       url: /tags/
       weight: 20
     - identifier: example
