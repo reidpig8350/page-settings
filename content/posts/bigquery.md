@@ -1,7 +1,7 @@
 ---
 title: "【Python】更新資料庫狀態"
 date: 2022-02-10
-draft: 0
+draft: 1
 
 # post thumb
 image: ""
